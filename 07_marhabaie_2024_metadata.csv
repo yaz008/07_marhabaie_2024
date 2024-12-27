@@ -1,0 +1,28 @@
+sample;descriprion;developmental_stage;genotype
+RWW_B;w, cycle9, rep1;cycle 9;w
+RWW_C;w, cycle9, rep2;cycle 9;w
+RWW_D;w, cycle9, rep3;cycle 9;w
+RWL7_A;Upf1-NosL7, cycle9, rep1;cycle 9;Upf1-NosL7
+RWL7_B;Upf1-NosL7, cycle9, rep2;cycle 9;Upf1-NosL7
+RWL7_C;Upf1-NosL7, cycle9, rep3;cycle 9;Upf1-NosL7
+RWUN_G;Upf1-Nos, cycle9, rep1;cycle 9;Upf1-Nos
+RWUN_K;Upf1-Nos, cycle9, rep2;cycle 9;Upf1-Nos
+RWUN_L;Upf1-Nos, cycle9, rep3;cycle 9;Upf1-Nos
+RWUpf_B;Upf1, cycle9, rep1;cycle 9;Upf1
+RWUpf_C;Upf1, cycle9, rep2;cycle 9;Upf1
+RWUpf_D;Upf1, cycle9, rep3;cycle 9;Upf1
+RWNos_A;Nos, cycle9, rep1;cycle 9;Nos
+RWNos_B;Nos, cycle9, rep2;cycle 9;Nos
+RWNos_C;Nos, cycle9, rep3;cycle 9;Nos
+X8294_w_01;w, 0-1h, rep1;0-1h;w
+X8295_w_01;w, 0-1h, rep2;0-1h;w
+X8296_w_01;w, 0-1h, rep3;0-1h;w
+X8297_nos_01;nos, 0-1h, rep1;0-1h;nos
+X8298_nos_01;nos, 0-1h, rep2;0-1h;nos
+X8299_nos_01;nos, 0-1h, rep3;0-1h;nos
+X8300_w_23;w, 2-3h, rep1;2-3h;w
+X8301_w_23;w, 2-3h, rep2;2-3h;w
+X8302_w_23;w, 2-3h, rep3;2-3h;w
+X8303_nos_23;nos, 2-3h, rep1;2-3h;nos
+X8304_nos_23;nos, 2-3h, rep2;2-3h;nos
+X8305_nos_23;nos, 2-3h, rep3;2-3h;nos
